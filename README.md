@@ -46,6 +46,7 @@ My video settings is configured to have the best performances in game.
 
 
 ## :computer: My Hardware configuration
+You can send me a mail if you need help with your configuration.
 
 * Gaming Monitor : Asus VG248QE -  LED 24' - 144Hz - 3D
 * Secondary Monitor : Samsung SyncMaster 2233RZ - 22' - 3D
