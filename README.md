@@ -1,5 +1,7 @@
 # :video_game: My CSGO configuration
 This is my last updated configuration :alien:
+I decide to share it since some of my friends IRL and In game asked me !
+Do not forget to star it ! :star:
 
 ## Files
 I am only using an autoExe.cfg file. 
@@ -46,7 +48,7 @@ My video settings is configured to have the best performances in game.
 ## :computer: My Hardware configuration
 
 * Gaming Monitor : Asus VG248QE -  LED 24' - 144Hz - 3D
-* Secondary monitor : Samsung SyncMaster 2233RZ - 22' - 3D
+* Secondary Monitor : Samsung SyncMaster 2233RZ - 22' - 3D
 * Mouse : Razer Deathadder Chroma
 * Mousepad : Razer Goliathus control
 * Keyboard : Steelseries 6GV2
