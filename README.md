@@ -31,7 +31,6 @@ My video settings is configured to have the best performances in game.
 * Color Mode : Television
 * Aspect Ratio : 4/3
 * Resolution : 1280x960 with black bars
-
 * Global Shadows Quality : High
 * Model Texture : Low
 * Effect Details : Low
@@ -48,12 +47,10 @@ My video settings is configured to have the best performances in game.
 
 * Gaming Monitor : Asus VG248QE -  LED 24' - 144Hz - 3D
 * Secondary monitor : Samsung SyncMaster 2233RZ - 22' - 3D
-
 * Mouse : Razer Deathadder Chroma
 * Mousepad : Razer Goliathus control
 * Keyboard : Steelseries 6GV2
 * Headset : HyperX CLoudII 7.1
-
 * Computer Housing : Corsair Carbid Series 200R
 * CPU : Intel Core i5-4670k Haswell @ 3.40Hz
 * GPU : AMD Radeon 7950 MSI 3Go
