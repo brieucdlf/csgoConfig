@@ -62,4 +62,5 @@ You can send me a mail if you need help with your configuration.
 * Mother Board : MSI Z87-G45 Gaming
 * Computer Power : Cooler Master -PC- RS-550-AMAAB1-B- Alimentation G550m 
 * WaterCooling : Kit Antec Kulher H2O 620
-* Storage : WD WD Blue 3,5" - SATA III 6 Gb/s - 1 To (Caviar) * 2 (Need an SSD Though)
+* Storage : WD WD Blue 3,5" - SATA III 6 Gb/s - 1 To (Caviar) * 2
+* SSD : Kingston HyperX Savage 120Go - MLc technology
