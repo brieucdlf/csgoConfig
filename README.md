@@ -32,7 +32,7 @@ My video settings is configured to have the best performances in game.
 * Brightness : 1.6
 * Color Mode : Television
 * Aspect Ratio : 4/3
-* Resolution : 1280x960 with black bars
+* Resolution : 1280x960 full panel
 * Global Shadows Quality : High
 * Model Texture : Low
 * Effect Details : Low
@@ -54,9 +54,11 @@ You can send me a mail if you need help with your configuration.
 * Mousepad : Razer Goliathus control
 * Keyboard : Steelseries 6GV2
 * Headset : HyperX CLoudII 7.1
+* Speakers : Edifier Prisma Encore black series
 * Computer Housing : Corsair Carbid Series 200R
 * CPU : Intel Core i5-4670k Haswell @ 3.40Hz
 * GPU : AMD Radeon 7950 MSI 3Go
+* Wifi card : Asus PCE-AC68 WIFI AC1900
 * RAM : Kingston HyperX 2*4Go (Need to add 8Go more !)
 * Sound card : Asus DGX Xonar PCIE 5.1 Audio Card
 * Mother Board : MSI Z87-G45 Gaming
