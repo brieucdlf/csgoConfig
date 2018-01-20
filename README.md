@@ -1,7 +1,6 @@
 # :video_game: My CSGO configuration
 This is my last updated configuration :alien:
-I decide to share it since some of my friends IRL and In game asked me !
-Do not forget to star it ! :star:
+I decided to share it since some of my friends IRL and in the game asked me !
 
 ## Files
 I am only using an autoExe.cfg file. 
